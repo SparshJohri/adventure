@@ -1,5 +1,4 @@
 .idea
 env/*
 *.pyc
-adventure/*.pyc
 adventure/local_settings.*
